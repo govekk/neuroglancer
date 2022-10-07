@@ -6,7 +6,7 @@
   "main": "dist/module/main_module.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google/neuroglancer.git"
+    "url": "git+https://github.com/govekk/neuroglancer.git"
   },
   "engines": {
     "node": ">=12"
