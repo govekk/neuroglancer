@@ -18,7 +18,7 @@ import './viewer.css';
 import 'neuroglancer/noselect.css';
 
 import svg_controls_alt from 'ikonate/icons/controls.svg';
-import svg_layers from 'ikonate/icons/layers.svg';
+import svg_layers from 'ikonate/icons/stack.svg';
 import svg_list from 'ikonate/icons/list.svg';
 import svg_settings from 'ikonate/icons/settings.svg';
 import debounce from 'lodash/debounce';
